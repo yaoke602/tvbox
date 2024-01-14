@@ -1,22 +1,30 @@
 {
-  "spider": "https://fm.t4tv.hz.cz/jar/custom_spider.jar",
+  "spider": "https://3.138.108.168:17201/down/zCNHoK0xBOcr.jar;md5;24ba2c9605439a4f6451d9a6eb2db74a",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
-    {
-      "key": "本地",
-      "name": "本地",
+      {
+      "key": "test",
+      "name": "test",
       "type": 3,
-      "api": "csp_Local",
-      "searchable": 0,
-      "changeable": 0
+      "api": "csp_Cs1369Test",
+      "searchable": 1,
+      "changeable": 1
     },
     {
-      "key": "商店",
-      "name": "商店",
+      "key": "竞争1",
+      "name": "竞争1",
       "type": 3,
-      "api": "csp_Market",
-      "searchable": 0,
-      "changeable": 0,
+      "api": "csp_Doll",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "福利哥哥",
+      "name": "福利哥哥",
+      "type": 3,
+      "api": "csp_Eighteen",
+      "searchable": 1,
+      "changeable": 1,
       "ext": "https://fm.t4tv.hz.cz/json/market.json"
     },
     {
