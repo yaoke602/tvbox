@@ -1,10 +1,10 @@
 {
-  "spider": "./custom_spider.jar;md5;d00b624974b9de5546be71eb04d0cdd9",
+  "spider": "./custom_spider.jar;md5;851a18e33702abdb60f0370bcda8497a",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
-      "key": "caoliu",
-      "name": "caoliu",
+      "key": "1caoliu",
+      "name": "1caoliu",
       "type": 3,
       "api": "csp_CaoLiu",
       "searchable": 1,
