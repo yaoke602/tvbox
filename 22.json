@@ -1,18 +1,18 @@
 {
-  "spider": "./custom_spider.jar;md5;0ef305a885f96a10431b4a043c316e91",
+  "spider": "./custom_spider.jar;md5;4b55fe6f1d0b3e4849673f489823e17a",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
-      "key": "1caoliu",
-      "name": "1caoliu",
+      "key": "草榴",
+      "name": "草榴",
       "type": 3,
       "api": "csp_CaoLiu",
       "searchable": 1,
       "changeable": 1
     },
     {
-      "key": "test3",
-      "name": "test3",
+      "key": "看电影",
+      "name": "看电影",
       "type": 3,
       "api": "csp_CeChi",
       "searchable": 1,
