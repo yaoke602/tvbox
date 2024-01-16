@@ -1,5 +1,5 @@
 {
-  "spider": "./custom_spider.jar;md5;ddce78060c04d8108308477e1ee9b081",
+  "spider": "./custom_spider.jar;md5;0ef305a885f96a10431b4a043c316e91",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
@@ -10,6 +10,14 @@
       "searchable": 1,
       "changeable": 1
     },
+    {
+      "key": "test3",
+      "name": "test3",
+      "type": 3,
+      "api": "csp_CeChi",
+      "searchable": 1,
+      "changeable": 1
+    }
       {
       "key": "test",
       "name": "test",
