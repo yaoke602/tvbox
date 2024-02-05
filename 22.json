@@ -2,6 +2,26 @@
   "spider": "./custom_spider.jar;md5;4b55fe6f1d0b3e4849673f489823e17a",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
+    {"key": "tuxiaobei","name": "猫丨小贝","type": 3,"api": "./tuxiaobei_open.js"}, 
+   {"key": "subai","name": "猫丨素白白","type": 3,"api": "./maosubai.js"},
+     {
+      "key":"t4Duanju",
+      "name":"T4短剧",
+      "type":4,
+      "api":"http://192.168.0.103:8080/vod?sites=Duanju&timeout=5",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1
+    },
+    {
+      "key":"t4Cechi",
+      "name":"T4策驰",
+      "type":4,
+      "api":"http://192.168.0.103:8080/vod?sites=Cechi&timeout=5",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1
+    },
     {
       "key": "草榴",
       "name": "草榴",
