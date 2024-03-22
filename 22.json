@@ -2,8 +2,6 @@
   "spider": "./custom_spider.jar;md5;4b55fe6f1d0b3e4849673f489823e17a",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
-    {"key":"csp_lwdy","name":"老王电影","type":3,"api":"csp_XBPQ","jar":"https://gh.xxooo.cf/github.com/gaotianliuyun/gao/blob/master/jar/XBPQ.jar",
-      "ext":{"分类url":"https://www.laowang.co/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html","分类":"电影$movie#电视剧$tv#综艺$tvshow#动漫$animation#短剧$duanju"}},
     {
             "key": "555yingshi","name":"🔴555影视","type":3,"api":"csp_XBPQ","jar":"https://gh.xxooo.cf/github.com/gaotianliuyun/gao/blob/master/jar/XBPQ.jar",
             "ext": {"分类":"电影$1#电视剧$2#福利$124#动漫$4","分类url":"https://5moov.vip/vodshow/{cateId}--------{catePg}---.html"}
