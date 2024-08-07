@@ -2,7 +2,28 @@
   "spider": "./custom_spider.jar;md5;4b55fe6f1d0b3e4849673f489823e17a",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
-
+{
+            "key": "王某某影视MAX",
+            "name": "🐲官 | 王某某影视",
+            "playerType": 2,
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://wmmys.wmmys.cn/api.php/app/"
+        },
+        {
+            "key": "官方",
+            "name": "🐲官 | 官方 | 高清",
+            "playerType": 1,
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://110.40.61.119:1633/api.php/app/"
+        },
     {
     "key": "剧兔",
     "name": "追剧兔子┃┃💠V2",
